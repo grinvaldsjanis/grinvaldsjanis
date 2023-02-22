@@ -19,7 +19,7 @@ My experience in 3D modeling, design, and architecture has given me a unique per
 * Systematic and argumented approach
 ## Technologies
 - HTML
-- CSS - SCCS - Frameworks
+- CSS - SCSS - Frameworks
 - Typescript
 - React - React libraries - Next.js
 - VSC
