@@ -32,3 +32,5 @@ My experience in 3D modeling, design, and architecture provides me with a unique
 ### Contact
 [![Contact me on LinkedIn](/LI_button.png)](https://www.linkedin.com/in/grinvaldsjanis/)
 [Contact me on LinkedIn](https://www.linkedin.com/in/grinvaldsjanis/)
+
+![image](/forgithub2.png)
