@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/-Architecture-green" alt="Architecture">
   <img src="https://img.shields.io/badge/-Programming-yellow" alt="Frontend WEB">
 </p>
+
 From a young age, I was always fascinated by technology and the incredible things it could do. Even though I was curious about programming and the ability to create digital products, I never really thought I would become a programmer myself. Instead, I started exploring my interests in 3D modeling, design, and architecture. I have also worked on some web projects as a product owner and technical director.
 
 I am relatively new to programming, but I have gained some experience in HTML, CSS, Typescript, React, Next.js, and some of the React libraries and CSS frameworks. Although my experience is limited, I am eager to learn more and to apply my creativity and problem-solving skills to new programming challenges.
