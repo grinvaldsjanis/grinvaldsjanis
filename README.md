@@ -8,8 +8,6 @@
   <img src="https://img.shields.io/badge/-CSS-pink" alt="CSS">
 </p>
 
-[![Contact me on LinkedIn](/In-2C-54px-R.png)](https://www.linkedin.com/in/grinvaldsjanis/) 
-
 ### About me
 From a young age, I've been fascinated by technology and its boundless potential. Although I never expected to become a programmer, my curiosity in digital product creation led me to explore my interests in 3D modeling, design, and architecture. I've also gained experience working as a product owner and technical director on some web projects.
 
@@ -30,3 +28,7 @@ My experience in 3D modeling, design, and architecture provides me with a unique
 - VSC
 - GitHub
 - Some insite into Flutter
+
+### Contact
+[![Contact me on LinkedIn](/LI_button.png)](https://www.linkedin.com/in/grinvaldsjanis/)
+[Contact me on LinkedIn](https://www.linkedin.com/in/grinvaldsjanis/)
