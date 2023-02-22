@@ -2,9 +2,10 @@
 ## Hi there, I'm Ian Grinvald(Jānis Grīnvalds)*
 <p>
   <img src="https://img.shields.io/badge/-WEB Frontend-yellow" alt="Frontend WEB">
-  <img src="https://img.shields.io/badge/-3D%20modeling-blue" alt="3D modeling">
-  <img src="https://img.shields.io/badge/-Design-red" alt="Design">
-  <img src="https://img.shields.io/badge/-Architecture-green" alt="Architecture">
+  <img src="https://img.shields.io/badge/-Typescript-blue" alt="Typescript">
+  <img src="https://img.shields.io/badge/-React-red" alt="REACT">
+  <img src="https://img.shields.io/badge/-HTML-green" alt="HTML">
+  <img src="https://img.shields.io/badge/-CSS-pink" alt="CSS">
 </p>
 
 ### About me
