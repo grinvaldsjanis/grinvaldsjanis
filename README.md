@@ -1,5 +1,5 @@
 ![image](/forgithub1.png)
-## Hi there, I'm Ian Grinvald *(Jānis Grīnvalds)*
+## Hi there! I'm Ian Grinvald *(Jānis Grīnvalds)*.
 <p>
   <img src="https://img.shields.io/badge/-WEB Frontend-yellow" alt="Frontend WEB">
   <img src="https://img.shields.io/badge/-Typescript-blue" alt="Typescript">
