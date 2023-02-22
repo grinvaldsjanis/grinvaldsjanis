@@ -24,3 +24,4 @@ My experience in 3D modeling, design, and architecture has given me a unique per
 - React - React libraries - Next.js
 - VSC
 - GitHub
+- Some insite into Flutter
