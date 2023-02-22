@@ -8,11 +8,11 @@
 </p>
 
 ### About me
-From a young age, I was always fascinated by technology and the incredible things it could do. Even though I was curious about programming and the ability to create digital products, I never really thought I would become a programmer myself. Instead, I started exploring my interests in 3D modeling, design, and architecture. I have also worked on some web projects as a product owner and technical director.
+From a young age, I've been fascinated by technology and its boundless potential. Although I never expected to become a programmer, my curiosity in digital product creation led me to explore my interests in 3D modeling, design, and architecture. I've also gained experience working as a product owner and technical director on some web projects.
 
-I am relatively new to programming, but I have gained some experience in HTML, CSS, Typescript, React, Next.js, and some of the React libraries and CSS frameworks. Although my experience is limited, I am eager to learn more and to apply my creativity and problem-solving skills to new programming challenges. In addition to my interest in web development, I'm also excited about mobile development and have recently started learning about Flutter. I hope to gain more experience in this field and apply my design and problem-solving skills to creating innovative mobile apps.
+While I'm relatively new to programming, I've learned HTML, CSS, Typescript, React, Next.js, and various React libraries and CSS frameworks. I'm eager to expand my skills and apply my creativity and problem-solving abilities to new programming challenges. Apart from web development, I'm also enthusiastic about mobile development and have started learning Flutter to gain more experience and create innovative mobile apps.
 
-My experience in 3D modeling, design, and architecture has given me a unique perspective on problem-solving and creativity. I've learned to think spatially and visualize complex systems, which has been helpful in designing user interfaces and working with web layouts. Additionally, my background in architecture has taught me to think systematically and design things in a modular, scalable way.
+My experience in 3D modeling, design, and architecture provides me with a unique problem-solving perspective and creative approach. I've honed my spatial thinking and visualization skills, which prove helpful in designing user interfaces and web layouts. Moreover, my background in architecture has taught me to think systematically and design modular, scalable systems.
 
 ### Skills
 * Spatial thinking, design and PO experience
