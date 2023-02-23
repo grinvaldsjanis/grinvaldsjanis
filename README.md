@@ -1,11 +1,11 @@
 ![image](/forgithub1.png)
 ## Hi there! I'm Ian Grinvald *(Jānis Grīnvalds)*.
 <p>
-  <img src="https://img.shields.io/badge/-WEB Frontend-yellow" alt="Frontend WEB">
+  <img src="https://img.shields.io/badge/-WEB Frontend-blue" alt="Frontend WEB">
   <img src="https://img.shields.io/badge/-TypeScript-blue" alt="Typescript">
-  <img src="https://img.shields.io/badge/-React-red" alt="REACT">
-  <img src="https://img.shields.io/badge/-HTML-blueviolet" alt="HTML">
-  <img src="https://img.shields.io/badge/-CSS-pink" alt="CSS">
+  <img src="https://img.shields.io/badge/-React-blue" alt="REACT">
+  <img src="https://img.shields.io/badge/-HTML-blue" alt="HTML">
+  <img src="https://img.shields.io/badge/-CSS-blue" alt="CSS">
 </p>
 
 ### About me
