@@ -17,7 +17,7 @@ My experience in 3D modeling, design, and architecture provides me with a unique
 
 ### Skills
 * Spatial thinking, design and PO experience
-* Communication, pro activity
+* Communication, proactivity
 * Systematic and argumented approach
 
 ### Technologies
